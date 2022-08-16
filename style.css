@@ -27,6 +27,13 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+.accessible-font{
+    font-size: 12.5px;
+}
+
+.form-lspacing{
+    margin-bottom: 10px;
+}
 .bloc {
     width: 100%;
     clear: both;
