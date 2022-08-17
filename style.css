@@ -31,9 +31,12 @@ a:hover {
     font-size: 12.5px;
 }
 
+
 .form-lspacing{
     margin-bottom: 10px;
 }
+
+
 .bloc {
     width: 100%;
     clear: both;
@@ -752,7 +755,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(0, 0, 0, 0.8);
     padding: 40px 40px 40px 40px;
 }
 
