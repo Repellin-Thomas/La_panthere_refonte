@@ -36,6 +36,10 @@ a:hover {
     margin-bottom: 10px;
 }
 
+.img-responsive{
+    width: 100%;
+}
+
 
 .bloc {
     width: 100%;
@@ -1077,4 +1081,5 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+ 
 }
