@@ -48,6 +48,8 @@ a:hover {
 
 .black{
     color: #000000;
+    font-family: "helvetica";
+    font-weight: 400;
 }
 
 .contact-padding{
@@ -55,7 +57,7 @@ a:hover {
 }
 
 a{
-    color: #FFF;
+    color: rgb(0, 0, 0);
     font-family: "helvetica";
     font-weight: 400;
 }
