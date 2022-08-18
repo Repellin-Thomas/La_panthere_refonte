@@ -40,12 +40,31 @@ a:hover {
     width: 100%;
 }
 
+.black-bloc{
+    background-color: #000000;
+    margin-left: 50px;
+    opacity: 0.9;
+}
+
+.black{
+    color: #000000;
+}
+
+.contact-padding{
+    padding-left: 50px;
+}
+
+a{
+    color: #FFF;
+    font-family: "helvetica";
+    font-weight: 400;
+}
 
 .bloc {
     width: 100%;
     clear: both;
     background: 50% 50% no-repeat;
-    padding: 0 50px;
+    
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -99,7 +118,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(255, 255, 255, 1);
 }
 
 .d-bloc button:hover {
@@ -653,8 +672,7 @@ h5,
 h6,
 p,
 label,
-.btn,
-a {
+.btn {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757 !important;
@@ -782,11 +800,12 @@ h4 {
 
 .tc-white {
     color: #F3976C !important;
+    padding: 15px;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF !important;
+    color: #000000 !important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1083,3 +1102,4 @@ h4 {
     }
  
 }
+
